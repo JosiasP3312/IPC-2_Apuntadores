@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "Ejercicio5.C": "cpp"
+        "Ejercicio5.C": "cpp",
+        "Ejercicio6.C": "cpp",
+        "Ejercicio7.C": "cpp",
+        "Ejercicio8.C": "cpp",
+        "Ejercicio9.C": "cpp",
+        "Ejercicio10.C": "cpp",
+        "Ejercicio2.C": "cpp"
     }
 }
